@@ -1,0 +1,1 @@
+<a>my</a> <a>cats </a><a>play </a><a>ball</a><br><br><a>My cats play balls.</a><br><br>He <a>ran</a> as fast as he could.<br><br>The dog lives in a big <a>run</a>.<br><br>The player scored a <a>run</a>.<br><br>The program is <a>running</a> well.

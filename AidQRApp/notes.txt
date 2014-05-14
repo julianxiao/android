@@ -1,0 +1,12 @@
+http://stackoverflow.com/questions/14005176/adb-not-recognising-nexus-4-under-windows-7
+http://developer.android.com/tools/device.html
+
+install google usb driver (switch it into ptp mode)
+adb devices
+
+   
+SupplementalInfoRetriever    
+set android:key="preferences_supplemental" to false to get rid off of supplemented decode info
+
+LinkMovementMethod
+android:autoLink="web" false
